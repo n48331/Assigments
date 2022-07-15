@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form{
+    width: 600px;
+    margin: 10px auto;
+}
+form{
+    background-color: antiquewhite;
+    padding: 30px 10px;
+    height: 220px;
+}
+input{
+    width: 45%;
+    margin: 10px;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+}
+button{
+    float: right;
+    margin: 20px;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    background-color: cornflowerblue;
+}
+h2{
+    color: coral;
+}
+span{
+    color: gray;
+}
